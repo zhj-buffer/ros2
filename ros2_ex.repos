@@ -395,19 +395,4 @@ repositories:
     type: git
     url: https://github.com/ros2/yaml_cpp_vendor.git
     version: 7.0.2
-  ex/ros2-driver-for-yhs-moving-base:
-    type: git
-    url: https://github.com/zhj-buffer/ros2-driver-for-yhs-moving-base.git
-  ex/ROS2_rada_driver:
-    type: git
-    url: https://github.com/zhj-buffer/ROS2_rada_driver.git
-  ex/ROS2_driver_lidar:
-    type: git
-    url: https://github.com/zhj-buffer/ROS2_driver_lidar.git
-  ex/ROS2-driver-for-Realsense:
-    type: git
-    url: https://github.com/zhj-buffer/ROS2-driver-for-Realsense.git
-  ex/ros2_mpu9250_driver:
-   type: git
-   url: https://github.com/zhj-buffer/ros2_mpu9250_driver.git
-
+  
